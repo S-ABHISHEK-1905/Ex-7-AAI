@@ -72,6 +72,7 @@ if __name__ == "__main__":
 ```
 
 <H3>Output</H3>
+
 ![image](https://github.com/pavizhi/Ex-7-AAI/assets/95067176/5e41e809-4ce8-4521-af72-05efe617e287)
 
 
